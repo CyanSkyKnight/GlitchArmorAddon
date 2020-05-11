@@ -1,0 +1,10 @@
+{
+  "author" : "Cyan Sky Knight",
+  "description" : "Glitch Armor Addon: \n\nThis is a mod with some Glitch stuff, mostly cosmetic helmets, that I've been working on occasionally.\n\nThis mod includes:\n\nNew helmets/hats, most with craftable variants. \n\tSallet- the helmet that's been in my profile picture for awhile. Alt versions widen the eyeslot and/or gives it a bevor to protect the neck.\n\tKettle Helm- Can also craft versions with a cloth or chain coif.\n\tBascinet- Alt version removes the face plate.\n\tHooded Bascinet- Alt version removes the face plate.\n\tFrog-mouth Helm\n\tWizard S.A.I.L. Hat- based on the hat the Beta Glitch S.A.I.L. wore. Alt version also comes with a fake beard!\n\nTwo new full armor sets:\n\tA Gambeson, armor usually made of wool or linen.\n\tA \"Classic\" armor set. Based on old art by [url=https://www.deviantart.com/suweeka] Suweeka [/url]. The artwork was originally used for the \"Introducing the Glitch\" blog post. The set has a helmet with has many alternate colors, even though the Glitch in the art didn't wear a helmet...\n\nTwo weapons, both tier 3, that can be upgraded with the anvils in the ancient vaults:\n\tGlitch Lance- Based on the lances the horse-riding Glitch use.\n\tGlitch Halberd- Based on the Halberds found on random castle walls\n\t\nOne rarely spawning tiny castle. There isn't really anything to do there other than generated vanilla npc quests. It spawns in forest, jungle, savannah, snow, and tundra biomes; and its ID is csk_glitchcastle\n\t\nAll armor and weapons are crafted with a Glitch Armor Anvil, which you can craft at an Inventor's Table. ",
+  "friendlyName" : "Glitch Armor Addon",
+  "link" : "steam://url/CommunityFilePage/1864628318",
+  "name" : "cskGlitchArmorAddon",
+  "steamContentId" : "1864628318",
+  "tags" : "Weapons|Dungeons|Armor and Clothes",
+  "version" : "1.0.2"
+}

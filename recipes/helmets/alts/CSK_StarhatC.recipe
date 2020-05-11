@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "CSK_Starhat2", "count" : 1 }
+  ],
+  "duration" : 0.1,
+  "output" : { "item" : "CSK_StarhatC", "count" : 1 },
+  "groups" : [ "csk_alts", "all" ]
+}

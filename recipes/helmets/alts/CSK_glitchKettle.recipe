@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "CSK_glitchKettlechain", "count" : 1 }
+  ],
+  "duration" : 0.1,
+  "output" : { "item" : "CSK_glitchKettle", "count" : 1 },
+  "groups" : [ "csk_alts", "all" ]
+}

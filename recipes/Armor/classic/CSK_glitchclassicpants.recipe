@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 2 }
+  ],
+  "duration" : 0.1,
+  "output" : { "item" : "CSK_glitchpants", "count" : 1 },
+  "groups" : [ "csk_armoursets", "all" ]
+}

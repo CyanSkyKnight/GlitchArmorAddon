@@ -1,0 +1,26 @@
+{
+  "metadata" : {
+    "name" : "csk_glitchcastle",
+    "species" : "glitch",
+    "rules" : [
+    ],
+    "anchor" : [ "csk_glitchcastle1" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 20,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "csk_glitchcastle1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "csk_glitchcastle1" ] ]
+
+      ],
+      "def" : [ "tmx", "csk_glitchcastle1.json" ]
+    }
+  ]
+}
